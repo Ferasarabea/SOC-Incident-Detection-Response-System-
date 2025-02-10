@@ -32,7 +32,7 @@ This project simulates a **Security Operations Center (SOC) workflow** by:
 ### **🔹 1. Clone the Repository**  
 ```bash
 git clone https://github.com/ferasarabea/SOC-Incident-Detection-Response-System-.git
-cd SSOC-Incident-Detection-Response-System-
+cd SOC-Incident-Detection-Response-System-
 ```
 
 ### **🔹 2. Install Dependencies**  
