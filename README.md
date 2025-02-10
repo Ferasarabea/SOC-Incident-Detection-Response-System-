@@ -91,10 +91,6 @@ timestamp,event_type,ip,ip_risk_score,file_hash,malware_detection,open_ports,ris
 🔹 **Integration with ELK Stack (Elasticsearch, Logstash, Kibana)**  
 🔹 **Email notifications for critical alerts**  
 
----
-
-## **📜 License**
-This project is **open-source** under the **MIT License**.
 
 ---
 
