@@ -68,7 +68,7 @@ Example:
 
 ### **2️⃣ Run the Script**
 ```bash
-python soc_analysis.py
+python SOC_incident_Detection_Response_System.py
 ```
 
 ### **3️⃣ View the Incident Report (`incident_report.csv`)**
